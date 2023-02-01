@@ -1,0 +1,4053 @@
+[
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 2.56,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 2.56,
+      "sqrMagnitude": 6.5536
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 5.12,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 5.12,
+      "sqrMagnitude": 26.2144
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 7.68,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 7.68,
+      "sqrMagnitude": 58.9824
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 10.24,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 10.24,
+      "sqrMagnitude": 104.8576
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 12.7999992,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 12.7999992,
+      "sqrMagnitude": 163.839981
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 15.3599987,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 15.3599987,
+      "sqrMagnitude": 235.929565
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 17.9199982,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 17.9199982,
+      "sqrMagnitude": 321.126343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 20.4799976,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 20.4799976,
+      "sqrMagnitude": 419.4303
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 23.0399971,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 23.0399971,
+      "sqrMagnitude": 530.8415
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 25.5999966,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 25.5999966,
+      "sqrMagnitude": 655.3598
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 28.159996,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 28.159996,
+      "sqrMagnitude": 792.985352
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 30.7199955,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 30.7199955,
+      "sqrMagnitude": 943.71814
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 33.279995,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 33.279995,
+      "sqrMagnitude": 1107.55811
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 35.8399963,
+      "sqrMagnitude": 1284.50537
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 0.0,
+      "z": 0.0,
+      "normalized": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 35.8399963,
+      "sqrMagnitude": 1284.50537
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 2.56,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9974587,
+        "y": 0.0712470561,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 35.93131,
+      "sqrMagnitude": 1291.059
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 5.12,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.989949465,
+        "y": 0.141421363,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 36.2038651,
+      "sqrMagnitude": 1310.71973
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 7.68,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9778024,
+        "y": 0.2095291,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 36.6536179,
+      "sqrMagnitude": 1343.48779
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 10.24,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.96152395,
+        "y": 0.274721146,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 37.27416,
+      "sqrMagnitude": 1389.36292
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 12.7999992,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9417419,
+        "y": 0.3363364,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 38.0571327,
+      "sqrMagnitude": 1448.34534
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 15.3599987,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.919145,
+        "y": 0.3939193,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.919145048,
+          "y": 0.393919319,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 38.9927559,
+      "sqrMagnitude": 1520.43494
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 17.9199982,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.8944272,
+        "y": 0.4472136,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 40.0703354,
+      "sqrMagnitude": 1605.63171
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 20.4799976,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.868243158,
+        "y": 0.49613893,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 41.2787552,
+      "sqrMagnitude": 1703.93567
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 23.0399971,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.8411785,
+        "y": 0.5407576,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 42.6068878,
+      "sqrMagnitude": 1815.3468
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 25.5999966,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.8137335,
+        "y": 0.5812382,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 44.0439,
+      "sqrMagnitude": 1939.86511
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 28.159996,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.786318362,
+        "y": 0.6178216,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 45.5795,
+      "sqrMagnitude": 2077.49072
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 30.7199955,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.7592566,
+        "y": 0.650791347,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 47.2040634,
+      "sqrMagnitude": 2228.22339
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 33.279995,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.7327935,
+        "y": 0.6804511,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 48.9087257,
+      "sqrMagnitude": 2392.06348
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 50.68541,
+      "sqrMagnitude": 2569.01074
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.707106769,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 90.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 35.8399963,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 50.68541,
+      "sqrMagnitude": 2569.01074
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 33.279995,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.6804511,
+        "y": 0.7327935,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 48.9087257,
+      "sqrMagnitude": 2392.06348
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 30.7199955,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.650791347,
+        "y": 0.7592566,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 47.2040634,
+      "sqrMagnitude": 2228.22339
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 28.159996,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.6178216,
+        "y": 0.786318362,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 45.5795,
+      "sqrMagnitude": 2077.49072
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 25.5999966,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.5812382,
+        "y": 0.8137335,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 44.0439,
+      "sqrMagnitude": 1939.86511
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 23.0399971,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.5407576,
+        "y": 0.8411785,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 42.6068878,
+      "sqrMagnitude": 1815.3468
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 20.4799976,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.49613893,
+        "y": 0.868243158,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 41.2787552,
+      "sqrMagnitude": 1703.93567
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 17.9199982,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.4472136,
+        "y": 0.8944272,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 40.0703354,
+      "sqrMagnitude": 1605.63171
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 15.3599987,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.3939193,
+        "y": 0.919145,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.393919319,
+          "y": 0.919145048,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 38.9927559,
+      "sqrMagnitude": 1520.43494
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 12.7999992,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.3363364,
+        "y": 0.9417419,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 38.0571327,
+      "sqrMagnitude": 1448.34534
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 10.24,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.274721146,
+        "y": 0.96152395,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 37.27416,
+      "sqrMagnitude": 1389.36292
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 7.68,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.2095291,
+        "y": 0.9778024,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 36.6536179,
+      "sqrMagnitude": 1343.48779
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 5.12,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.141421363,
+        "y": 0.989949465,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 36.2038651,
+      "sqrMagnitude": 1310.71973
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 2.56,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0712470561,
+        "y": 0.9974587,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 35.93131,
+      "sqrMagnitude": 1291.059
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 35.8399963,
+      "sqrMagnitude": 1284.50537
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 0.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0,
+        "w": 0.0,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 180.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 35.8399963,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 35.8399963,
+      "sqrMagnitude": 1284.50537
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 33.279995,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 33.279995,
+      "sqrMagnitude": 1107.55811
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 30.7199955,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 30.7199955,
+      "sqrMagnitude": 943.71814
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 28.159996,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 28.159996,
+      "sqrMagnitude": 792.985352
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 25.5999966,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 25.5999966,
+      "sqrMagnitude": 655.3598
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 23.0399971,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 23.0399971,
+      "sqrMagnitude": 530.8415
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 20.4799976,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 20.4799976,
+      "sqrMagnitude": 419.4303
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 17.9199982,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 17.9199982,
+      "sqrMagnitude": 321.126343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 15.3599987,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 15.3599987,
+      "sqrMagnitude": 235.929565
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 12.7999992,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 12.7999992,
+      "sqrMagnitude": 163.839981
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 10.24,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 10.24,
+      "sqrMagnitude": 104.8576
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 7.68,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 7.68,
+      "sqrMagnitude": 58.9824
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 5.12,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 5.12,
+      "sqrMagnitude": 26.2144
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 2.56,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 2.56,
+      "sqrMagnitude": 6.5536
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7071067,
+      "w": -0.7071067,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 270.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.707106769,
+        "w": -0.707106769,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 270.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.7071068,
+          "w": -0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 270.0,
+            "sqrMagnitude": 72900.0
+          }
+        }
+      }
+    },
+    "tag": "EdgeWall"
+  },
+  {
+    "pos": {
+      "x": 15.4563169,
+      "y": 21.2694111,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.5878645,
+        "y": 0.808959365,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 26.29231,
+      "sqrMagnitude": 691.2856
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.551937,
+      "w": 0.8338858,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 67.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 67.0,
+        "sqrMagnitude": 4489.0
+      },
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.551937044,
+        "w": 0.833885849,
+        "eulerAngles": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 67.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 67.0,
+          "sqrMagnitude": 4489.0
+        }
+      }
+    },
+    "tag": "log"
+  },
+  {
+    "pos": {
+      "x": 14.8421726,
+      "y": 9.136396,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.851587832,
+        "y": 0.524211943,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 17.4288216,
+      "sqrMagnitude": 303.763824
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.04361939,
+      "w": 0.999048233,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.000001,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 5.000001,
+        "sqrMagnitude": 25.00001
+      }
+    },
+    "tag": "log"
+  },
+  {
+    "pos": {
+      "x": 27.1241474,
+      "y": 7.79916668,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9610601,
+        "y": 0.2763393,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.961060166,
+          "y": 0.276339322,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 28.2231541,
+      "sqrMagnitude": 796.5464
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.537299633,
+      "w": 0.8433914,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 65.00001,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 65.00001,
+        "sqrMagnitude": 4225.001
+      }
+    },
+    "tag": "log"
+  },
+  {
+    "pos": {
+      "x": 21.30984,
+      "y": 17.1178589,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.779618263,
+        "y": 0.6262551,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 27.3336849,
+      "sqrMagnitude": 747.1304
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 31.35498,
+      "y": 25.1930084,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.77954483,
+        "y": 0.6263464,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 40.2221642,
+      "sqrMagnitude": 1617.82251
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 29.6663151,
+      "y": 21.63301,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.8079904,
+        "y": 0.589195669,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 36.7161751,
+      "sqrMagnitude": 1348.07739
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 12.3673611,
+      "y": 6.30621338,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.890868664,
+        "y": 0.454260856,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.8908687,
+          "y": 0.4542609,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 13.8823614,
+      "sqrMagnitude": 192.71994
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 32.40066,
+      "y": 3.326211,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9947719,
+        "y": 0.102122024,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 32.5709457,
+      "sqrMagnitude": 1060.86658
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 4.753683,
+      "y": 3.157061,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.833024442,
+        "y": 0.5532361,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.8330245,
+          "y": 0.5532362,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 5.706535,
+      "sqrMagnitude": 32.564537
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 24.1390972,
+      "y": 9.962863,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9243645,
+        "y": 0.381510437,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 26.1142616,
+      "sqrMagnitude": 681.954651
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 21.6801624,
+      "y": 22.3615379,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.6960837,
+        "y": 0.7179606,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 31.1459122,
+      "sqrMagnitude": 970.0678
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 5.71540642,
+      "y": 20.75514,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.26549086,
+        "y": 0.964113355,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 21.5276966,
+      "sqrMagnitude": 463.4417
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "dressingPart"
+  },
+  {
+    "pos": {
+      "x": 28.0941944,
+      "y": 31.743288,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.662753761,
+        "y": 0.7488374,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 42.3900948,
+      "sqrMagnitude": 1796.92
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Mushrooms"
+  },
+  {
+    "pos": {
+      "x": 6.709145,
+      "y": 17.209671,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.363221854,
+        "y": 0.9317027,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 18.4712048,
+      "sqrMagnitude": 341.1854
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Berries"
+  },
+  {
+    "pos": {
+      "x": 18.874958,
+      "y": 23.7587814,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.62203753,
+        "y": 0.7829874,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 30.34376,
+      "sqrMagnitude": 920.7437
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Mushrooms"
+  },
+  {
+    "pos": {
+      "x": 20.3738689,
+      "y": 7.581238,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.9372179,
+        "y": 0.348744363,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 21.7386684,
+      "sqrMagnitude": 472.5697
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Berries"
+  },
+  {
+    "pos": {
+      "x": 21.3962269,
+      "y": 31.1457577,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.5662326,
+        "y": 0.8242455,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 37.78699,
+      "sqrMagnitude": 1427.85669
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Mushrooms"
+  },
+  {
+    "pos": {
+      "x": 17.773201,
+      "y": 18.34086,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.695906162,
+        "y": 0.718132734,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 25.5396519,
+      "sqrMagnitude": 652.2738
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Berries"
+  },
+  {
+    "pos": {
+      "x": 27.8298454,
+      "y": 15.8325415,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.869186342,
+        "y": 0.494484574,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.8691864,
+          "y": 0.4944846,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 32.0182724,
+      "sqrMagnitude": 1025.16968
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "MushroomsPoisonous"
+  },
+  {
+    "pos": {
+      "x": 8.15601349,
+      "y": 5.648793,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.8220826,
+        "y": 0.5693682,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.822082639,
+          "y": 0.569368243,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 9.921161,
+      "sqrMagnitude": 98.42942
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "BerriesPoisonous"
+  },
+  {
+    "pos": {
+      "x": 12.3344727,
+      "y": 26.4656048,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.422431439,
+        "y": 0.9063949,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 29.1987572,
+      "sqrMagnitude": 852.567444
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Player"
+  },
+  {
+    "pos": {
+      "x": 27.19424,
+      "y": 27.6516514,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.701185167,
+        "y": 0.7129792,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 38.7832527,
+      "sqrMagnitude": 1504.1405
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    "tag": "Finish"
+  }
+]
