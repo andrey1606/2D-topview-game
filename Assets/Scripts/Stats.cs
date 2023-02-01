@@ -3,10 +3,10 @@
 ///</summary>
 public class Stats
 {
-    internal string login;
-    internal string levelName;
-    internal float score;
-    internal float totalTime;
+    public string login;
+    public string levelName;
+    public float score;
+    public float totalTime;
     public Stats(string _login, string _levelname, float _score, float _totalTime)
     {
         login = _login;
